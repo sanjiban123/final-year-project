@@ -1,5 +1,6 @@
 # final-year-project
-Image In-Painting using Generative Adversarial Networks
+This project "Image In-Painting using Generative Adversarial Networks" has been conducted under the supervision of Prof. Sanjiban Sekhar Roy, Associate Professor, School of Computer Science and Engg,VIT.
+I Rajat Bhatia has carried out this project.
 
 README
 

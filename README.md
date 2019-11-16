@@ -54,3 +54,5 @@ EVAL_INTERVAL	0	how many iterations to wait before evaluating the model (0: neve
 LOG_INTERVAL	10	how many iterations to wait before logging training loss (0: never)
 SAMPLE_INTERVAL	1000	how many iterations to wait before saving sample (0: never)
 SAMPLE_SIZE	12	number of images to sample on each samling interval
+
+I have taken help from github.com/knazeri/edge-connect for my project.
